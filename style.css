@@ -43,9 +43,9 @@ body {
 }
 
 .delay {
-    -webkit-animation-delay: 0.3s;
-    -moz-animation-delay: 0.3s;
-    animation-delay: 0.3s;
+    -webkit-animation-delay: 0.4s;
+    -moz-animation-delay: 0.4s;
+    animation-delay: 0.4s;
     }
 
     @keyframes moveUp {
@@ -128,10 +128,10 @@ h1 {
     color: #000000;
     font-family: 'Montserrat', sans-serif;
     font-size: 13px;
-    font-weight: 800;
+    font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 2px;
-    transition: .3s;
+    transition: 0.3s;
 }
 
 .button:after {
